@@ -27,16 +27,13 @@ This project is a **Smart Control Irrigation** system that automates the irrigat
 4. **Communication**: Data is sent to a cloud server or local server for logging and remote control via Wi-Fi or GSM module.
 5. **User Interface**: A mobile/web interface to monitor the system and control irrigation manually.
 
-![System Architecture](path_to_architecture_image)
-
 ## Technologies Used
 - **Hardware**: Arduino/ESP32, Soil Moisture Sensor, Temperature & Humidity Sensor (DHT11/22), Relay Module, Water Pump/Valve.
 - **Software**:
-  - Microcontroller Programming: Arduino IDE, ESP32 IDE.
-  - Backend: Flask/Django (Python) or Node.js.
+  - Microcontroller Programming: Arduino IDE.
+  - Backend: Javascript.
   - Frontend: HTML, CSS, JavaScript (React or Vue.js optional).
   - Database: MySQL/PostgreSQL.
-  - IoT Protocols: MQTT, HTTP (for communication with the cloud).
 
 ## Setup Instructions
 
